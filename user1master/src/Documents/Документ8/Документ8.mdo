@@ -55,4 +55,19 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="aac110ff-6a57-4ae9-a06f-f90dd2b192ea">
+    <name>Реквизит4</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит4</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Document>
