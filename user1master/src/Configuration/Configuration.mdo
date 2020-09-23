@@ -30,6 +30,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Справочник1</catalogs>
-  <documents>Document.ДокументНовый</documents>
   <enums>Enum.Перечисление1</enums>
 </mdclass:Configuration>
