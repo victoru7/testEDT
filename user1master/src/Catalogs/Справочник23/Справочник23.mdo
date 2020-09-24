@@ -45,4 +45,19 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="270c96ce-7ac6-4b45-b975-ef90dee7558f">
+    <name>Реквизит11</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит11</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Catalog>
