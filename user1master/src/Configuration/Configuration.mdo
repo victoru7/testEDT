@@ -30,6 +30,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Справочник1</catalogs>
+  <catalogs>Catalog.Справочник23</catalogs>
   <documents>Document.Документ6</documents>
   <documents>Document.Документ8</documents>
   <enums>Enum.Перечисление1</enums>
